@@ -19,3 +19,7 @@ project/plugins/project/
 # ENSIME specific
 .ensime_cache/
 .ensime
+/bin/
+.cache-main
+.classpath
+.project
